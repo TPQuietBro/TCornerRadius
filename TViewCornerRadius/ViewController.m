@@ -24,6 +24,8 @@
     
 //    [view setCornerRadius:35 rectCorner:UIRectCornerBottomRight | UIRectCornerBottomLeft];
     [view setMultiCornerRadius:TMakeCornerRadius(10, 11, 12, 13) rectCorner:UIRectCornerTopLeft | UIRectCornerTopRight];
+    
+    NSLog(@"");
 }
 
 
